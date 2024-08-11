@@ -8,9 +8,9 @@ export const navItems: NavItem[] = [
     label: 'Dashboard'
   },
   {
-    title: 'Tickets',
-    href: '/dashboard/tickets',
+    title: 'Chat',
+    href: '/dashboard/chat',
     icon: 'dashboard',
-    label: 'Tickets'
+    label: 'Chat'
   }
 ];
